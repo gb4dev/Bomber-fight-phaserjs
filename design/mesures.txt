@@ -1,0 +1,16 @@
+width : 1280
+height : 720
+
+nb tiles width : 15
+nb tile height : 11
+
+tile size : 60x60 = 900x660
+
+images : 
+-image sol seulement /
+-image haut de bloc seulement /
+-image haut de mur seulement /
+-image bas bloc 15px + haut bloc 45px /
+-image bas mur 15px + haut mur 45px /
+-image haut bloc 15px + sol 45px
+-image mur bloc 15px + sol 45px

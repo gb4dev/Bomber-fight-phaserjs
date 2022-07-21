@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "walls60x45.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 180,
+				"h": 45
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bloctop60x45.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 60,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 45
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 45
+					}
+				},
+				{
+					"filename": "murtop60x45.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 60,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 45
+					},
+					"frame": {
+						"x": 60,
+						"y": 0,
+						"w": 60,
+						"h": 45
+					}
+				},
+				{
+					"filename": "sol60x45.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 60,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 45
+					},
+					"frame": {
+						"x": 120,
+						"y": 0,
+						"w": 60,
+						"h": 45
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fa85bb152d387ebb8e8c39224a75a58e:3b38aa80b13082f79084585ebf561164:62d51d3403b1010cd8ac1268924dfb5f$"
+	}
+}

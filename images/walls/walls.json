@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "walls.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 90,
+				"h": 30
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "empty.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "kure.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 30,
+						"y": 0,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "mur1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 60,
+						"y": 0,
+						"w": 30,
+						"h": 30
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:29c1887fdde488ad136e1fc8123fa411:9a4ab574abdafc6ad0620bf01fb37b47:5c2f5c663ae0680c530bc1f885567038$"
+	}
+}
